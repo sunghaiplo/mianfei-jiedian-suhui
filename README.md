@@ -6,9 +6,9 @@
 
 | 项目 | 内容 |
 | --- | --- |
-| 更新日期 | 2026年9月12日 |
-| 自动同步时间 | 2026年9月12日 00:00 |
-| 当天文章 | https://free.tntyx.com/posts/nodes/2026-09-12 |
+| 更新日期 | 2026年9月13日 |
+| 自动同步时间 | 2026年9月13日 00:00 |
+| 当天文章 | https://free.tntyx.com/posts/nodes/2026-09-13 |
 | 订阅格式 | XBoard 通用订阅 |
 | 适配客户端 | Clash Verge Rev / Mihomo / v2rayN / v2rayNG / Shadowrocket / OpenClash |
 | 主要地区 | 香港、日本、新加坡、美国 |
@@ -19,14 +19,14 @@
 ### 当天文章链接
 
 ```text
-https://free.tntyx.com/posts/nodes/2026-09-12
+https://free.tntyx.com/posts/nodes/2026-09-13
 ```
 
 请打开上面的博客文章，在正文“免费订阅地址”区域获取当天可用入口。移动端最适合把入口放在正文里，减少复制错位和旧链接残留。
 
 ## 快速入口
 
-- 今日免费节点文章：https://free.tntyx.com/posts/nodes/2026-09-12
+- 今日免费节点文章：https://free.tntyx.com/posts/nodes/2026-09-13
 - 常见问题文档：https://free.tntyx.com/docs
 - 连接异常排查：https://free.tntyx.com/docs/troubleshooting/no-internet
 - 每日免费节点归档：https://free.tntyx.com/nodes
@@ -36,12 +36,12 @@ https://free.tntyx.com/posts/nodes/2026-09-12
 
 - 面向场景：iPhone / iPad 上的 Shadowrocket 免费订阅导入入口
 - 推荐读者：移动端用户、需要先复制再唤起客户端的读者
-- 内容重点：Shadowrocket 订阅、iOS VPN 权限、移动网络切换和复制排错；2026年9月12日更新；香港、日本、新加坡、美国 等地区；100 Mbps 公共限速
+- 内容重点：Shadowrocket 订阅、iOS VPN 权限、移动网络切换和复制排错；2026年9月13日更新；香港、日本、新加坡、美国 等地区；100 Mbps 公共限速
 - 固定入口：https://free.tntyx.com/
 
 ## 今日导入路径
 
-1. 打开今日文章，确认日期是 2026年9月12日，再获取正文里的免费订阅入口。
+1. 打开今日文章，确认日期是 2026年9月13日，再获取正文里的免费订阅入口。
 2. 优先使用 Shadowrocket 导入入口，或进入站内 Shadowrocket 专题查看移动端步骤；如果客户端没有弹出，就复制文章里的地址后手动新增订阅。
 3. 导入后先更新订阅并测速，优先选择延迟稳定的 香港、日本、新加坡、美国 节点。
 4. 如果列表为空或格式不识别，回到站内导入教程、格式检测工具和排错页定位问题。
